@@ -1,4 +1,4 @@
-=== Pokemon 2D Card Game
+=== 2D Pokemon Card Game
 
 Proje ödevi için geliştirilmiştir. Geliştirme aşamasında IDE olarak NetBeans, programlama dili olarak Java, arayüz içinse Swing GUI kullanılmıştır.
 
