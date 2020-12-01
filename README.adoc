@@ -12,16 +12,16 @@ Oyun toplamda 10 adet pokemon kartından oluşmaktadır ve her kullanıcıya ras
 
 *Menü*
 
-image::img/1.jpg[width=500]
+image::img/1.jpg[width=700]
 
 *Player vs Computer*
 
 Eldeki kartlara tıklandığı takdirde bilgisayar oyuncusu da otomatik hamle yapmaktadır.
 
-image::img/2.jpg[width=500]
+image::img/2.jpg[width=700]
 
 *Computer vs Computer*
 
 Kart çek butonuna basıldığı takdirde iki bilgisayarda otomatik hamle yapar.
 
-image::img/3.jpg[width=500]
+image::img/3.jpg[width=700]
